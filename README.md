@@ -276,18 +276,7 @@ Inclusa no README:
 # 👥 **Autores**
 
 Projeto acadêmico — Disciplina de Arquitetura de Sistemas
-Equipe conforme arquivo original do repositório.
+Equipe: João Emmanuel e Gabriel Raniere.
 
 ---
 
-# 🔄 **O que posso gerar a seguir para você?**
-
-Posso criar:
-
-📌 Um **PDF profissional** com essa documentação
-📌 Um **diagrama UML completo** (classes + fluxo)
-📌 Um **diagrama da arquitetura**
-📌 Um **manual do usuário**
-📌 Uma **versão resumida para apresentação em slides**
-
-É só pedir!
