@@ -1,10 +1,3 @@
-Perfeito!
-A seguir está o **README profissional completo**, já adaptado para um **projeto acadêmico da disciplina de Arquitetura de Sistemas** e incluindo **toda a documentação técnica do backend** em um único arquivo.
-
-Se quiser, posso gerar também uma versão em PDF depois.
-
----
-
 # 📄 **README – Backend FacilPark**
 
 ### *Projeto da Disciplina de Arquitetura de Sistemas*
